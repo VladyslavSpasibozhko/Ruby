@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d74dcaee-e581-432e-ad21-b4b6c62de040" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.stk</find>
+      <find>bs-MultipleBets_StakeRow</find>
+      <find>button coefficient</find>
+      <find>bs-MultipleBets_BetRows</find>
+      <find>login-in</find>
+      <find>user-setting-menu</find>
+      <find>user-setting-menu-item-inner.show</find>
+      <find>user-setting-menu-item</find>
+      <find>transform</find>
+      <find>getComm</find>
+      <find>classification</find>
+      <find>classification_inplay_favourites_header</find>
+      <find>classification_inplay_competition_league</find>
+      <find>timer</find>
+      <find>scoreboardCount</find>
+      <find>menu-item</find>
+      <find>.menu-item</find>
+      <find>.classification</find>
+      <find>getScore</find>
+      <find>event_right</find>
+      <find>circle</find>
+      <find>getSetScore</find>
+      <find>fetch</find>
+      <find>star</find>
+      <find>event-to_fav</find>
+      <find>star_active</find>
+      <find>event_set_score</find>
+      <find>#4a0413</find>
+      <find>#4a041red</find>
+      <find>checkTime</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\OSPanel\domains\EUBY.bet</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectId" id="1dB26sEfuTgrrsI4f0SaqgxDIwm" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\EUBY.b\css" />
+      <recent name="D:\OSPanel\domains\EUBY.b\img" />
+      <recent name="D:\OSPanel\domains\EUBY.bet\modules\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\EUBY.b\utils" />
+      <recent name="D:\OSPanel\domains\EUBY.b\config" />
+      <recent name="D:\OSPanel\domains\EUBY.b\js" />
+      <recent name="D:\OSPanel\domains\EUBY.b" />
+      <recent name="D:\OSPanel\domains\EUBY.b\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d74dcaee-e581-432e-ad21-b4b6c62de040" name="Default Changelist" comment="" />
+      <created>1577093698729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577093698729</updated>
+      <workItem from="1577093702524" duration="26136000" />
+      <workItem from="1577175680170" duration="25623000" />
+      <workItem from="1577216035851" duration="7050000" />
+      <workItem from="1577257143345" duration="275000" />
+      <workItem from="1577264562102" duration="14697000" />
+      <workItem from="1577351003056" duration="16253000" />
+      <workItem from="1577435421758" duration="3055000" />
+      <workItem from="1577695291889" duration="18967000" />
+      <workItem from="1578039894726" duration="25165000" />
+      <workItem from="1578472738701" duration="19501000" />
+      <workItem from="1578557250127" duration="24581000" />
+      <workItem from="1578645854953" duration="78000" />
+      <workItem from="1578646204902" duration="24018000" />
+      <workItem from="1578740881482" duration="7550000" />
+      <workItem from="1578992312885" duration="19767000" />
+      <workItem from="1579032086299" duration="11780000" />
+      <workItem from="1579044384256" duration="2626000" />
+      <workItem from="1579078177769" duration="25277000" />
+      <workItem from="1579165993581" duration="2809000" />
+      <workItem from="1579596336459" duration="21633000" />
+      <workItem from="1579683524686" duration="17079000" />
+      <workItem from="1579767957573" duration="21781000" />
+      <workItem from="1579855113309" duration="25784000" />
+      <workItem from="1580113001061" duration="26695000" />
+      <workItem from="1580150837371" duration="3179000" />
+      <workItem from="1580200095600" duration="21612000" />
+      <workItem from="1580223583116" duration="3152000" />
+      <workItem from="1580289547639" duration="20285000" />
+      <workItem from="1580373679887" duration="22003000" />
+      <workItem from="1580459225420" duration="24479000" />
+      <workItem from="1580576199776" duration="1000" />
+      <workItem from="1580658247504" duration="5481000" />
+      <workItem from="1580718148776" duration="23415000" />
+      <workItem from="1580804028980" duration="26189000" />
+      <workItem from="1580891302714" duration="26368000" />
+      <workItem from="1580933959738" duration="618000" />
+      <workItem from="1580976583204" duration="27456000" />
+      <workItem from="1581014320004" duration="110000" />
+      <workItem from="1581015042316" duration="22358000" />
+      <workItem from="1581060994531" duration="9589000" />
+      <workItem from="1581078946566" duration="169000" />
+      <workItem from="1581088654721" duration="19790000" />
+      <workItem from="1581238751256" duration="8767000" />
+      <workItem from="1581323130644" duration="24905000" />
+      <workItem from="1581360651163" duration="124000" />
+      <workItem from="1581361238228" duration="644000" />
+      <workItem from="1581363423357" duration="9353000" />
+      <workItem from="1581421438896" duration="22612000" />
+      <workItem from="1581451815120" duration="3200000" />
+      <workItem from="1581496949225" duration="25777000" />
+      <workItem from="1581583772645" duration="25211000" />
+      <workItem from="1581670808230" duration="24535000" />
+      <workItem from="1581926726146" duration="28389000" />
+      <workItem from="1581962647970" duration="8347000" />
+      <workItem from="1582014226765" duration="24174000" />
+      <workItem from="1582101726460" duration="6470000" />
+      <workItem from="1582108492421" duration="13454000" />
+      <workItem from="1582186455282" duration="25148000" />
+      <workItem from="1582272168832" duration="28507000" />
+      <workItem from="1582315830117" duration="1585000" />
+      <workItem from="1582533801777" duration="21986000" />
+      <workItem from="1582618238754" duration="22127000" />
+      <workItem from="1582705342490" duration="26003000" />
+      <workItem from="1582791782509" duration="24742000" />
+      <workItem from="1582878104989" duration="25426000" />
+      <workItem from="1583137016434" duration="19493000" />
+      <workItem from="1583224135877" duration="15935000" />
+      <workItem from="1583310124737" duration="27212000" />
+      <workItem from="1583395450058" duration="24015000" />
+      <workItem from="1583483448629" duration="13097000" />
+      <workItem from="1583828587095" duration="1292000" />
+      <workItem from="1583832107712" duration="13422000" />
+      <workItem from="1583916370440" duration="22549000" />
+      <workItem from="1584000006497" duration="21763000" />
+      <workItem from="1584039102887" duration="6338000" />
+      <workItem from="1584089820204" duration="10454000" />
+      <workItem from="1584114170627" duration="598000" />
+      <workItem from="1584344548216" duration="4045000" />
+      <workItem from="1584398037682" duration="5000" />
+      <workItem from="1584439654888" duration="15548000" />
+      <workItem from="1584458105607" duration="9374000" />
+      <workItem from="1584469779325" duration="12598000" />
+      <workItem from="1584522467762" duration="15340000" />
+      <workItem from="1584550504816" duration="15607000" />
+      <workItem from="1584608294914" duration="7725000" />
+      <workItem from="1584629977921" duration="9357000" />
+      <workItem from="1584702824539" duration="20151000" />
+      <workItem from="1584974898063" duration="28887000" />
+      <workItem from="1585045394448" duration="14248000" />
+      <workItem from="1585070830485" duration="1856000" />
+      <workItem from="1585074599424" duration="1402000" />
+      <workItem from="1585076098081" duration="407000" />
+      <workItem from="1585999086510" duration="788000" />
+      <workItem from="1587982832163" duration="1212000" />
+      <workItem from="1588250855266" duration="2548000" />
+      <workItem from="1588280693301" duration="2810000" />
+      <workItem from="1588323401400" duration="2098000" />
+      <workItem from="1588578704129" duration="2716000" />
+      <workItem from="1588697737672" duration="2645000" />
+      <workItem from="1588750833217" duration="1070000" />
+      <workItem from="1589010009023" duration="1609000" />
+      <workItem from="1589042948188" duration="598000" />
+      <workItem from="1589105650556" duration="601000" />
+      <workItem from="1589376629647" duration="978000" />
+      <workItem from="1589394661992" duration="597000" />
+      <workItem from="1589473841300" duration="2217000" />
+      <workItem from="1591883996050" duration="205000" />
+      <workItem from="1591968511649" duration="1014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

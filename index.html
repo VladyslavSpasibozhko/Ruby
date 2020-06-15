@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/preloader.css">
+    <title>Main</title>
+    <script src="config/load_modules.js"></script>
+    <script src="config/config.js"></script>
+    <script src="config/lang.js"></script>
+    <script src="utils/helpers.js"></script>
+  </head>
+  <body>
+  <div class="loader">
+    <div class="loader-logo">
+      <img src="./img/header/logo/img/logo.png" alt="logo">
+    </div>
+    <div class="loader-inner">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+    <div class="blur none">
+      <div class="header">
+        <div class="progress-bar-outer hide">
+          <div class="progress-bar-inner">
+            <div class="progress-bar-runner"></div>
+          </div>
+        </div>
+        <div class="nav container-fluid">
+          <div class="container flex-container align-middle">
+            <div class="content left" id="header-forLogo"></div>
+            <div class="content center" id="header-forMenu"></div>
+            <div class="content right" id="header-forLogin"></div>
+          </div>
+        </div>
+        <div class="container-fluid bottom" id="header-forMenuBottom"></div>
+      </div>
+      <div class="main" style="position: relative"></div>
+      <div class="footer">
+        <div class="container-fluid partner" id="footer-forPartner"></div>
+        <div class="container-fluid about" id="footer-forAbout"></div>
+        <div class="container-fluid info" id="footer-forInfo"></div>
+        <div class="container-fluid copyright" id="footer-forCopyright"></div>
+      </div>
+    </div>
+    <div class="popup not-active" id="registration">
+      <div class="close sign-up-close" id="closeRegForm"></div>
+      <div class="sign-up scroll">
+        <div class="sign-up-nav flex-container align-middle" id="sign-up-nav"></div>
+        <div class="sign-up-body" id="sign-up-body"></div>
+        <div class="sign-up-footer flex-container align-middle" id="sign-up-footer"></div>
+      </div>
+    </div>
+  </body>
+</html>
